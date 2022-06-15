@@ -6,12 +6,13 @@ Tem como objetivo criar um widget para coleta de feedbacks.
 
 ## Tecnologias utilizadas
 
-[Vite](https://vitejs.dev)
-[Typescript](https://www.typescriptlang.org/)
-[ReactJS](https://reactjs.org/)
-[Tailwind CSS](https://tailwindcss.com)
-[Headless UI](https://headlessui.dev/)
-[Phosphor react](https://phosphoricons.com/)
+- [Vite](https://vitejs.dev)
+- [Typescript](https://www.typescriptlang.org/)
+- [ReactJS](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Headless UI](https://headlessui.dev/)
+- [Phosphor react](https://phosphoricons.com/)
+- [html2canvas](https://html2canvas.hertzen.com/)
 
 ## Para rodar o projeto:
 
