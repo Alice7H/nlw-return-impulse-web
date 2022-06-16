@@ -42,7 +42,6 @@ export function WidgetForm() {
     const element = document.querySelector('html')!;
     if(feedbackDarkMode) {
       element.classList.add('dark');
-      console.log({element});
     }else{
       element.classList.remove('dark');
     }

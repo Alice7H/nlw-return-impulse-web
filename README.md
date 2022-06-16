@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="Banner" title="Banner" src="./src/assets/banner.png" />
+</h1>
+
 # Feedback Widget
 
 É um projeto desenvolvido, de acordo com a NLW Return - Mission Impulse da Rocketseat.
